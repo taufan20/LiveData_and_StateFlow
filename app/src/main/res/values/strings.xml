@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LiveData &amp; StateFlow</string>
+    <string name="click_me">Click Me!</string>
+    <string name="change_to_stateflow">Change LiveData to StateFlow</string>
+    <string name="change_to_livedata">Change StateFlow to LiveData</string>
+    <string name="stateflow">StateFlow</string>
+    <string name="livedata">LiveData</string>
+    <string name="livedata_to_stateflow">LiveData to StateFlow</string>
+</resources>
